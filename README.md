@@ -28,9 +28,7 @@ REST API (Movie data source)
 
 Xcode for development
 
-📸 Screenshots
 
-(Add screenshots of your app UI here to make it visually appealing)
 
 📦 Installation
 
